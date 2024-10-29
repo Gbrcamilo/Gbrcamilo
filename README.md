@@ -40,14 +40,10 @@
 
 ###
 
+<img align="left" height="200" src="https://i.pinimg.com/originals/d7/48/b2/d748b25ce140561d9e0a918cab27763e.gif"  />
+
+###
+
 <img align="right" height="200" src="https://i.pinimg.com/originals/ac/de/81/acde8128bdd5c9ad4abac57ba75485f2.gif"  />
-
-###
-
-<img align="left" height="200" src="https://i.pinimg.com/originals/9c/6d/a8/9c6da87a758a7e919f54e564d9930bbe.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Gbrcamilo/Gbrcamilo/output/snake.svg" alt="Snake animation" />
 
 ###
