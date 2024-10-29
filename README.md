@@ -48,7 +48,3 @@
 <img align="left" height="200" src="https://i.pinimg.com/originals/9c/6d/a8/9c6da87a758a7e919f54e564d9930bbe.gif"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/Gbrcamilo/Gbrcamilo/output/snake.svg" alt="Snake animation" />
-
-###
