@@ -24,6 +24,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gbrcamilo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gbrcamilo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="200" alt="languages graph"  />
@@ -49,6 +51,12 @@
 ###
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/ac/de/81/acde8128bdd5c9ad4abac57ba75485f2.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/Gbrcamilo/Gbrcamilo/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
