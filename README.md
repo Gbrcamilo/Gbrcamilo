@@ -51,3 +51,9 @@
 <img align="right" height="200" src="https://i.pinimg.com/originals/ac/de/81/acde8128bdd5c9ad4abac57ba75485f2.gif"  />
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Gbrcamilo/Gbrcamilo/output/snake.svg" alt="Snake animation" />
+
+###
