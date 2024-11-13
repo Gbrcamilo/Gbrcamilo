@@ -1,4 +1,8 @@
-<h2 align="left">Olá! Eu sou Gabriel ✌</h2>
+<h2 align="center">Olá! Eu sou Gabriel ✌</h2>
+
+###
+
+<h2 align="center">Sou desenvolvedor com experiência em Front-End e habilidades em JavaScript, CSS, HTML e boas práticas de desenvolvimento. Gosto de criar interfaces dinâmicas e intuitivas, sempre buscando melhorar a experiência do usuário e a organização do código. Apaixonado por resolver problemas e otimizar processos de desenvolvimento, com foco em me tornar Full Stack.</h2>
 
 ###
 
@@ -23,12 +27,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="52" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="52" alt="ruby logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gbrcamilo/Gbrcamilo/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif"  />
+</div>
 
 ###
