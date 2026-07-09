@@ -1,7 +1,6 @@
 
 ---
 
-### 🐍 Minha contribuição virando cobra!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gbrcamilo/Gbrcamilo/output/github-contribution-grid-snake-dark.svg" />
