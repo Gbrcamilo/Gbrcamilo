@@ -1,9 +1,3 @@
-# Olá, eu sou o Gabriel Reis! 👋
-
-## Sobre mim
-- 🎓 Estudante de Tecnologia
-- 💻 Apaixonado por programação
-- 🚀 Sempre aprendendo algo novo
 
 ---
 
